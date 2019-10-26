@@ -1,0 +1,214 @@
+1572055579332:add 1 2
+1572055762599:create_parking_lot 6
+1572055785127:create_parking_lot
+1572055869352:create_parking_lot 6
+1572056109909:help
+1572056118822:history
+1572056731034:park ererer erere
+1572056739464:create_parking_lot 3
+1572056746068:park one black
+1572056753685:park two white
+1572056760005:park three white
+1572056766355:park four white
+1572056793872:park three white
+1572056797356:park one black
+1572057164573:create_parking_lot 3
+1572057167538:status
+1572057175307:park one black
+1572057177886:status
+1572057186225:park two white
+1572057189362:status
+1572057204517:park three black
+1572057207052:status
+1572057223958:park four white
+1572057227264:status
+1572057233992:park five red
+1572057236238:status
+1572076211906:create_parking_lot 3
+1572076228318:park one white
+1572076235797:park two white
+1572076241682:park three black
+1572076246770:park four red
+1572076256712:status
+1572076272329:park five white
+1572076274324:status
+1572076816811:create_parking_lot 3
+1572076823134:park on ewhite
+1572076830955:park two black
+1572076835717:park three red
+1572076839984:status
+1572090597038:create_parking_lot 3
+1572090662431:park one white
+1572090673220:park two red
+1572090683423:park three black
+1572090691628:park four white
+1572090702220:status
+1572090708043:leave 1
+1572090712484:status
+1572090811350:create_parking_lot 4
+1572090851682:park one white
+1572090853949:status
+1572093388988:create_parking_lot 4
+1572093391297:status
+1572093407078:park one white
+1572093411752:status
+1572093504193:create_parking_lot 4
+1572093506820:status
+1572093512307:park one white
+1572093574974:status
+1572093777170:create_parking_lot 4
+1572093783029:park one two
+1572093790785:park two black
+1572093842618:status
+1572093847626:create_parking_lot 4
+1572093851744:help
+1572093871692:status
+1572093893543:park one white
+1572093899045:park two black
+1572093901343:status
+1572093946628:create_parking_lot 4
+1572093951325:park one white
+1572093953123:status
+1572093975287:park two white
+1572093982248:park three black
+1572093987069:park four red
+1572093993414:park five white
+1572093997165:status
+1572094285879:create_parking_lot 3
+1572094290231:park one white
+1572094295988:park two black
+1572094301196:if(vehicles!=null)
+1572094306477:clear
+1572094315584:status
+1572094320714:registration_numbers_for_cars_with_colour white
+1572094338586:registration_numbers_for_cars_with_colour white --stacktrace
+1572094360769:registration_numbers_for_cars_with_colour --stacktrace white
+1572094367505:clear
+1572094369727:registration_numbers_for_cars_with_colour white
+1572094425760:status
+1572094505751:park three white
+1572094508942:status
+1572094514875:registration_numbers_for_cars_with_colour
+1572094530275:registration_numbers_for_cars_with_colour white
+1572094546292:registration_numbers_for_cars_with_colour black
+1572094561267:create_parking_lot 4
+1572094565006:park one white
+1572094569544:park two white
+1572094574869:park three black
+1572094576926:status
+1572094588227:registration_numbers_for_cars_with_colour blac
+1572094591243:registration_numbers_for_cars_with_colour black
+1572094596557:registration_numbers_for_cars_with_colour white
+1572094608240:status
+1572094622402:registration_numbers_for_cars_with_colour white
+1572094753864:create_parking_lot 4
+1572094761726:park one black
+1572094768620:park two red
+1572094772700:status
+1572094778167:registration_numbers_for_cars_with_colour black
+1572094782075:registration_numbers_for_cars_with_colour white
+1572094784843:registration_numbers_for_cars_with_colour ref
+1572094787136:registration_numbers_for_cars_with_colour red
+1572094836363:create_parking_lot 4
+1572094841086:park one white
+1572094847288:park two black
+1572094853356:registration_numbers_for_cars_with_colour white
+1572094969125:create_parking_lot 4
+1572094973579:park one black
+1572094978639:park two white
+1572094989288:registration_numbers_for_cars_with_colour white
+1572094994629:registration_numbers_for_cars_with_colour whitef
+1572094999225:registration_numbers_for_cars_with_colour
+1572095001805:registration_numbers_for_cars_with_colour d
+1572095005165:status
+1572095509058:create_parking_lot 4
+1572095512565:park one white
+1572095515100:status
+1572095521332:slot_numbers_for_cars_with_colour 1
+1572095524284:slot_numbers_for_cars_with_colour 0
+1572095531276:slot_numbers_for_cars_with_colour white
+1572095616702:create_parking_lot 4
+1572095620910:park one white
+1572095659954:status
+1572095700058:slot_numbers_for_cars_with_colour white
+1572095703130:slot_numbers_for_cars_with_colour whited
+1572095764365:create_parking_lot 4
+1572095766335:status
+1572095772925:park one black
+1572095775735:status
+1572095861563:park two black
+1572095873324:park three white
+1572095904654:status
+1572095927097:leave 2
+1572095932849:status
+1572095936968:park one black
+1572095939063:status
+1572095974950:park two white
+1572096081530:registration_numbers_for_cars_with_colour black
+1572096086232:registration_numbers_for_cars_with_colour white
+1572096092942:slot_numbers_for_cars_with_colour white
+1572096097650:status
+1572096448539:create_parking_lot 4
+1572096453303:park one white
+1572096455469:status
+1572096505908:create_parking_lot 4
+1572096510066:park one white
+1572096512087:status
+1572096517126:park two white
+1572096518897:status
+1572096525318:park three black
+1572096529954:park four red
+1572096535661:status
+1572096541575:park five black
+1572096547285:leave 2
+1572096550277:status
+1572096556042:park five black
+1572096558502:status
+1572096572879:registration_numbers_for_cars_with_colour white
+1572096578159:registration_numbers_for_cars_with_colour black
+1572096611823:slot_number_for_registration_number five
+1572096619666:slot_number_for_registration_number fiveg
+1572096629630:slot_numbers_for_cars_with_colour white
+1572096636520:slot_numbers_for_cars_with_colour black
+1572096640636:status
+1572096945783:create_parking_lot 4
+1572096952917:park five black
+1572096962179:park four white
+1572096964042:status
+1572096969408:leave 2
+1572096972718:status
+1572096993514:park one white
+1572096999031:park two red
+1572097004333:park three white
+1572097006352:status
+1572097012025:park four black
+1572097015415:status
+1572097021368:registration_numbers_for_cars_with_colour red
+1572097025400:registration_numbers_for_cars_with_colour redd
+1572097030881:registration_numbers_for_cars_with_colour white
+1572097040283:slot_number_for_registration_number five
+1572097043485:slot_number_for_registration_number fives
+1572097046749:slot_number_for_registration_number four
+1572097051574:slot_number_for_registration_number three
+1572097059329:slot_numbers_for_cars_with_colour white
+1572097062258:slot_numbers_for_cars_with_colour whites
+1572097065624:slot_numbers_for_cars_with_colour black
+1572097236547:status
+1572097446014:create_parking_lot 6
+1572097452222:park one white
+1572097456337:park two black
+1572097461388:park three white
+1572097464636:park four red
+1572097471211:park five grey
+1572097478726:park six green
+1572097491749:leave 4
+1572097497757:status
+1572097525180:park seven black
+1572097532828:park eight black
+1572097541089:registration_numbers_for_cars_with_colour white
+1572097562287:slot_number_for_registration_number white
+1572097574242:slot_numbers_for_cars_with_colour white
+1572097583712:status
+1572097597403:slot_number_for_registration_number seven
+1572097600397:slot_number_for_registration_number seventy
+1572098350720:help
